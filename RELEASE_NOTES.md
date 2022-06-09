@@ -3,6 +3,7 @@
 ### 0.10.5 (2022-06-09)
 
 * Updated the version of z-schema to fix vulnerability _(Issue #636)_
+* Updated the version of multer to fix vulnerability
 
 ### 0.10.4 (2018-07-20)
 
